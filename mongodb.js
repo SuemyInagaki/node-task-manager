@@ -1,11 +1,11 @@
-const mongodb = require('mongodb')
+//const mongodb = require('mongodb')
 
 //CRUD create read update delete
 
-const MongoClient = mongodb.MongoClient
-const ObjectID = mongodb.ObjectID
+//const MongoClient = mongodb.MongoClient
+//const ObjectID = mongodb.ObjectID
 
-//const { MongoClient, ObjectID} = require('mongodb')
+const { MongoClient, ObjectID} = require('mongodb')
 
 
 
